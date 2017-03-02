@@ -1,0 +1,15 @@
+{
+  "name": "crispy-realization-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Crisp colors, dark background, (mostly) websafe colors - take it to the wild!",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/scottdesdev/crispy-realization-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
