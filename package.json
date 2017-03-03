@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/scottdesdev/crispy-realization-syntax-theme",
+  "repository": "https://github.com/scottdesdev/crispy-realization-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.14.4 <2.0.0"
