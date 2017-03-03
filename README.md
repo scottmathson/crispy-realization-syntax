@@ -11,7 +11,7 @@ Compatible with/built in Atom 1.14.4
 
 
 ![Screenshots of the theme](https://raw.githubusercontent.com/scottdesdev/crispy-realization-syntax-theme/master/crispy-realization-syntax-coffee.png)
-![Screenshots of the theme](https://raw.githubusercontent.com/scottdesdev/crispy-realization-syntax-theme/master/crispy-realization-syntax-theme-js-example.png)
+example of .coffee file with this theme applied
 
 Font used in screenshots: Fira Mono
 
