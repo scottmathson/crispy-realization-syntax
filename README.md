@@ -16,6 +16,6 @@ example of .coffee file with this theme applied
 Font used in screenshots: Fira Mono
 
 
-###Yes, the name is a <a href="https://scottmathson.me/bon-iver-re-stacks-lyrics/" target="_blank">Bon Iver reference</a> ;-)
+###Yes, the name is a <a href="https://scottmathson.me/bon-iver-re-stacks" target="_blank">Bon Iver reference</a> ;-)
 
 Other ways to reduce eye strain and sleep sounder: <a href="https://justgetflux.com/" target="_blank">f.lux</a> (&copy; Flux Software LLC).
